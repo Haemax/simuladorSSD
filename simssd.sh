@@ -1,6 +1,6 @@
 #!/bin/bash
 
-javac FTLSim.java
+javac SimSSD.java
 
 # parametros passados pelo usuario ou padrao
 B=${1:-100}   # blocos
